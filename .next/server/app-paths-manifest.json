@@ -3,5 +3,6 @@
   "/docs/page": "app/docs/page.js",
   "/pricing/page": "app/pricing/page.js",
   "/blog/page": "app/blog/page.js",
-  "/about/page": "app/about/page.js"
+  "/about/page": "app/about/page.js",
+  "/proyectos/page": "app/proyectos/page.js"
 }
