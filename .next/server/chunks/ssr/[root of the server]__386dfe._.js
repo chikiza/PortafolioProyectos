@@ -98,7 +98,7 @@ const siteConfig = {
         twitter: "https://twitter.com/getnextui",
         docs: "https://nextui.org",
         discord: "https://discord.gg/9b6yyZKmH4",
-        sponsor: "https://patreon.com/jrgarciadev"
+        linkedin: "https://www.linkedin.com/in/chikiza/"
     }
 };
 
@@ -1083,18 +1083,19 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$primitives$2e$
 ;
 ;
 function ProyectoPage() {
+    const defaultContent = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.";
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
             className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$primitives$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["title"])(),
             children: "Proyectos"
         }, void 0, false, {
             fileName: "[project]/app/proyectos/page.tsx",
-            lineNumber: 6,
+            lineNumber: 14,
             columnNumber: 7
         }, this)
     }, void 0, false, {
         fileName: "[project]/app/proyectos/page.tsx",
-        lineNumber: 5,
+        lineNumber: 13,
         columnNumber: 5
     }, this);
 }
