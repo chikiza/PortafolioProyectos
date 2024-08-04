@@ -82,7 +82,7 @@ function AboutPage() {
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                     className: (0, __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$primitives$2e$ts__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["title"])(),
-                    children: "Sobre Chikiza"
+                    children: "Hola soy Chikiza!"
                 }, void 0, false, {
                     fileName: "[project]/app/about/page.tsx",
                     lineNumber: 10,
@@ -94,6 +94,9 @@ function AboutPage() {
                 columnNumber: 5
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$nextui$2d$org$2f$user$2f$dist$2f$chunk$2d$TLBGAR4N$2e$mjs__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__user_default__as__User$3e$__["User"], {
+                style: {
+                    marginTop: '20px'
+                },
                 name: "Andrea (Chikiza) Gutiérrez Matus",
                 description: "Diseñadora & Fullstack Dev.",
                 avatarProps: {
@@ -103,6 +106,20 @@ function AboutPage() {
                 fileName: "[project]/app/about/page.tsx",
                 lineNumber: 13,
                 columnNumber: 5
+            }, this),
+            "    ",
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    children: "Soy Diseñadora Independiente con más de ocho años de trayectoria, especializada actualmente en soluciones de almacenamiento digital en IngeniOdigital. Mi carrera se ha destacado por la capacidad de llevar a cabo proyectos integrales que abarcan desde la decoración y remodelación hasta el diseño gráfico y editorial. Al frente de mi Estudio Creativo ChikizaLAB, fusiono mi pasión por los oficios y la creatividad con la tecnologia, siempre con el objetivo de superar desafíos y aportar valor al entorno de trabajo. La colaboración y el aprendizaje continuo son fundamentales en mi enfoque profesional, permitiéndome entregar soluciones integrales y de vanguardia que satisfacen las necesidades de nuestros clientes."
+                }, void 0, false, {
+                    fileName: "[project]/app/about/page.tsx",
+                    lineNumber: 20,
+                    columnNumber: 3
+                }, this)
+            }, void 0, false, {
+                fileName: "[project]/app/about/page.tsx",
+                lineNumber: 19,
+                columnNumber: 9
             }, this)
         ]
     }, void 0, true);
