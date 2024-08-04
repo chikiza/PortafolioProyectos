@@ -14,7 +14,7 @@ export default function AboutPage() {
     name="Andrea (Chikiza) Gutiérrez Matus"
     description="Diseñadora & Fullstack Dev."
     avatarProps={{
-      src: "@/public/IMG_9304.png"
+      src: "/IMG_9304.png"
     }}
   /></>
   );

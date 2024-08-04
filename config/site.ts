@@ -53,10 +53,9 @@ export const siteConfig = {
     },
   ],
   links: {
-    github: "https://github.com/nextui-org/nextui",
-    twitter: "https://twitter.com/getnextui",
-    docs: "https://nextui.org",
-    discord: "https://discord.gg/9b6yyZKmH4",
+    github: "https://github.com/chikiza",
     linkedin: "https://www.linkedin.com/in/chikiza/",
+    discord: "https://discord.gg/WN8W6bGT",
+    patreon: "https://patreon.com/chikizalab?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink",
   },
 };
