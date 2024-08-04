@@ -32,7 +32,7 @@ __turbopack_esm__({
 });
 const siteConfig = {
     name: "Portafolio Chikiza",
-    description: "Make beautiful websites regardless of your design experience.",
+    description: "Creado con NextUI.",
     navItems: [
         {
             label: "Home",
@@ -53,6 +53,10 @@ const siteConfig = {
         {
             label: "About",
             href: "/about"
+        },
+        {
+            label: "Proyectos",
+            href: "/proyectos"
         }
     ],
     navMenuItems: [
@@ -94,7 +98,7 @@ const siteConfig = {
         twitter: "https://twitter.com/getnextui",
         docs: "https://nextui.org",
         discord: "https://discord.gg/9b6yyZKmH4",
-        sponsor: "https://patreon.com/jrgarciadev"
+        linkedin: "https://www.linkedin.com/in/chikiza/"
     }
 };
 
@@ -689,7 +693,7 @@ const Navbar = ()=>{
                             isExternal: true,
                             as: __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$nextui$2d$org$2f$link$2f$dist$2f$index$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Link"],
                             className: "text-sm font-normal text-default-600 bg-default-100",
-                            href: __TURBOPACK__imported__module__$5b$project$5d2f$config$2f$site$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["siteConfig"].links.sponsor,
+                            href: __TURBOPACK__imported__module__$5b$project$5d2f$config$2f$site$2e$ts__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["siteConfig"].links.linkedin,
                             startContent: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$future$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$icons$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["HeartFilledIcon"], {
                                 className: "text-danger"
                             }, void 0, false, {
