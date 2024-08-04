@@ -1,25 +1,14 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-  name: "Portafolio Chikiza",
+  name: "Portafolio de Chikiza",
   description: "Creado con NextUI.",
   navItems: [
     {
       label: "Home",
       href: "/",
     },
-    {
-      label: "Docs",
-      href: "/docs",
-    },
-    {
-      label: "Pricing",
-      href: "/pricing",
-    },
-    {
-      label: "Blog",
-      href: "/blog",
-    },
+    
     {
       label: "About",
       href: "/about",
